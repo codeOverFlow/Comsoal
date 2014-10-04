@@ -1,0 +1,814 @@
+Bowman8
+C = 20
+sol: 5
+sol2: 5
+
+Buxey
+C = 27
+sol: 15
+sol2: 14
+C = 30
+sol: 13
+sol2: 13
+C = 33
+sol: 12
+sol2: 13
+C = 36
+sol: 10
+sol2: 10
+C = 41
+sol: 9
+sol2: 9
+C = 47
+sol: 8
+sol2: 8
+C = 54
+sol: 7
+sol2: 7
+
+Gunther
+C = 41
+sol: 15
+sol2: 16
+C = 44
+sol: 13
+sol2: 13
+C = 49
+sol: 11
+sol2: 11
+C = 54
+sol: 10
+sol2: 10
+C = 61
+sol: 10
+sol2: 9
+C = 69
+sol: 8
+sol2: 8
+C = 81
+sol: 7
+sol2: 7
+
+Heskiaoff
+C = 138
+sol: 9
+sol2: 8
+C = 205
+sol: 6
+sol2: 6
+C = 216
+sol: 5
+sol2: 6
+C = 256
+sol: 5
+sol2: 5
+C = 324
+sol: 4
+sol2: 4
+C = 342
+sol: 4
+sol2: 4
+
+Jackson
+C = 7
+sol: 8
+sol2: 9
+C = 9
+sol: 6
+sol2: 6
+C = 10
+sol: 6
+sol2: 5
+C = 13
+sol: 4
+sol2: 4
+C = 14
+sol: 4
+sol2: 4
+C = 21
+sol: 3
+sol2: 3
+
+Jaeschke
+C = 6
+sol: 8
+sol2: 8
+C = 7
+sol: 7
+sol2: 7
+C = 8
+sol: 6
+sol2: 6
+C = 10
+sol: 4
+sol2: 4
+C = 18
+sol: 3
+sol2: 3
+
+Hahn
+C = 2004
+sol: 8
+sol2: 8
+C = 2338
+sol: 8
+sol2: 8
+C = 2806
+sol: 6
+sol2: 6
+C = 3507
+sol: 5
+sol2: 5
+C = 4676
+sol: 4
+sol2: 4
+
+Kilbridge
+C = 56
+sol: 11
+sol2: 11
+C = 57
+sol: 11
+sol2: 11
+C = 62
+sol: 10
+sol2: 10
+C = 69
+sol: 9
+sol2: 9
+C = 79
+sol: 8
+sol2: 8
+C = 92
+sol: 7
+sol2: 7
+C = 110
+sol: 6
+sol2: 6
+C = 111
+sol: 6
+sol2: 6
+C = 138
+sol: 5
+sol2: 5
+C = 184
+sol: 4
+sol2: 4
+
+Lutz1
+C = 1414
+sol: 11
+sol2: 12
+C = 1572
+sol: 11
+sol2: 11
+C = 1768
+sol: 9
+sol2: 9
+C = 2020
+sol: 8
+sol2: 8
+C = 2357
+sol: 7
+sol2: 7
+C = 2828
+sol: 6
+sol2: 6
+
+Lutz2
+C = 11
+sol: 52
+sol2: 53
+C = 12
+sol: 50
+sol2: 51
+C = 13
+sol: 44
+sol2: 45
+C = 14
+sol: 42
+sol2: 43
+C = 15
+sol: 37
+sol2: 37
+C = 16
+sol: 34
+sol2: 36
+C = 17
+sol: 32
+sol2: 33
+C = 18
+sol: 30
+sol2: 30
+C = 19
+sol: 29
+sol2: 29
+C = 20
+sol: 27
+sol2: 27
+C = 21
+sol: 25
+sol2: 25
+
+Lutz3
+C = 75
+sol: 25
+sol2: 25
+C = 79
+sol: 24
+sol2: 24
+C = 83
+sol: 22
+sol2: 24
+C = 87
+sol: 22
+sol2: 22
+C = 92
+sol: 21
+sol2: 20
+C = 97
+sol: 19
+sol2: 19
+C = 103
+sol: 18
+sol2: 17
+C = 110
+sol: 16
+sol2: 17
+C = 118
+sol: 16
+sol2: 16
+C = 127
+sol: 14
+sol2: 15
+C = 137
+sol: 13
+sol2: 13
+C = 150
+sol: 12
+sol2: 12
+
+Mansoor
+C = 48
+sol: 5
+sol2: 5
+C = 62
+sol: 4
+sol2: 4
+C = 94
+sol: 3
+sol2: 3
+
+Mertens
+C = 6
+sol: 6
+sol2: 6
+C = 7
+sol: 5
+sol2: 5
+C = 8
+sol: 5
+sol2: 5
+C = 10
+sol: 4
+sol2: 4
+C = 15
+sol: 3
+sol2: 3
+C = 18
+sol: 2
+sol2: 2
+
+Mitchell
+C = 14
+sol: 10
+sol2: 10
+C = 15
+sol: 9
+sol2: 10
+C = 21
+sol: 5
+sol2: 6
+C = 26
+sol: 5
+sol2: 5
+C = 35
+sol: 4
+sol2: 4
+C = 39
+sol: 3
+sol2: 3
+
+Roszieg
+C = 14
+sol: 10
+sol2: 10
+C = 16
+sol: 9
+sol2: 9
+C = 18
+sol: 8
+sol2: 8
+C = 21
+sol: 7
+sol2: 7
+C = 25
+sol: 6
+sol2: 6
+C = 32
+sol: 5
+sol2: 5
+
+Sawyer30
+C = 25
+sol: 17
+sol2: 15
+C = 27
+sol: 15
+sol2: 15
+C = 30
+sol: 13
+sol2: 13
+C = 33
+sol: 11
+sol2: 12
+C = 36
+sol: 11
+sol2: 11
+C = 41
+sol: 9
+sol2: 9
+C = 47
+sol: 8
+sol2: 8
+C = 54
+sol: 7
+sol2: 7
+C = 75
+sol: 5
+sol2: 5
+
+Tonge70
+C = 160
+sol: 25
+sol2: 26
+C = 168
+sol: 24
+sol2: 23
+C = 176
+sol: 23
+sol2: 24
+C = 185
+sol: 23
+sol2: 22
+C = 195
+sol: 20
+sol2: 21
+C = 207
+sol: 20
+sol2: 20
+C = 220
+sol: 18
+sol2: 18
+C = 234
+sol: 17
+sol2: 17
+C = 251
+sol: 16
+sol2: 16
+C = 270
+sol: 14
+sol2: 15
+C = 293
+sol: 13
+sol2: 13
+C = 320
+sol: 12
+sol2: 12
+C = 364
+sol: 11
+sol2: 11
+C = 410
+sol: 9
+sol2: 9
+C = 468
+sol: 8
+sol2: 8
+C = 527
+sol: 7
+sol2: 8
+
+Warnecke
+C = 54
+sol: 34
+sol2: 35
+C = 56
+sol: 32
+sol2: 34
+C = 58
+sol: 31
+sol2: 32
+C = 60
+sol: 31
+sol2: 32
+C = 62
+sol: 31
+sol2: 31
+C = 65
+sol: 30
+sol2: 30
+C = 68
+sol: 27
+sol2: 27
+C = 71
+sol: 26
+sol2: 27
+C = 74
+sol: 26
+sol2: 25
+C = 78
+sol: 23
+sol2: 23
+C = 82
+sol: 21
+sol2: 21
+C = 86
+sol: 21
+sol2: 21
+C = 92
+sol: 19
+sol2: 19
+C = 97
+sol: 17
+sol2: 18
+C = 104
+sol: 16
+sol2: 16
+C = 111
+sol: 15
+sol2: 15
+
+Wee-mag
+C = 28
+sol: 64
+sol2: 65
+C = 29
+sol: 64
+sol2: 64
+C = 30
+sol: 64
+sol2: 64
+C = 31
+sol: 62
+sol2: 64
+C = 32
+sol: 62
+sol2: 63
+C = 33
+sol: 61
+sol2: 61
+C = 34
+sol: 61
+sol2: 61
+C = 35
+sol: 61
+sol2: 61
+C = 36
+sol: 60
+sol2: 61
+C = 37
+sol: 60
+sol2: 60
+C = 38
+sol: 60
+sol2: 60
+C = 39
+sol: 60
+sol2: 60
+C = 40
+sol: 60
+sol2: 60
+C = 41
+sol: 59
+sol2: 60
+C = 42
+sol: 56
+sol2: 55
+C = 43
+sol: 53
+sol2: 51
+C = 45
+sol: 42
+sol2: 42
+C = 46
+sol: 41
+sol2: 38
+C = 47
+sol: 36
+sol2: 38
+C = 49
+sol: 33
+sol2: 34
+C = 50
+sol: 33
+sol2: 33
+C = 52
+sol: 32
+sol2: 33
+C = 54
+sol: 32
+sol2: 32
+C = 56
+sol: 31
+sol2: 32
+
+Scholl
+C = 1394
+sol: 52
+sol2: 54
+C = 1422
+sol: 51
+sol2: 53
+C = 1452
+sol: 50
+sol2: 52
+C = 1483
+sol: 49
+sol2: 50
+C = 1515
+sol: 48
+sol2: 50
+C = 1548
+sol: 46
+sol2: 48
+C = 1584
+sol: 46
+sol2: 47
+C = 1620
+sol: 45
+sol2: 46
+C = 1659
+sol: 44
+sol2: 45
+C = 1699
+sol: 42
+sol2: 43
+C = 1742
+sol: 41
+sol2: 43
+C = 1787
+sol: 41
+sol2: 41
+C = 1834
+sol: 40
+sol2: 41
+C = 1883
+sol: 38
+sol2: 40
+C = 1935
+sol: 37
+sol2: 39
+C = 1991
+sol: 36
+sol2: 37
+C = 2049
+sol: 35
+sol2: 38
+C = 2111
+sol: 34
+sol2: 34
+C = 2177
+sol: 33
+sol2: 34
+C = 2247
+sol: 32
+sol2: 32
+C = 2322
+sol: 31
+sol2: 31
+C = 2402
+sol: 30
+sol2: 30
+C = 2488
+sol: 29
+sol2: 29
+C = 2580
+sol: 28
+sol2: 28
+C = 2680
+sol: 27
+sol2: 27
+C = 2787
+sol: 26
+sol2: 26
+
+Arc83
+C = 3786
+sol: 22
+sol2: 23
+C = 3985
+sol: 21
+sol2: 22
+C = 4206
+sol: 20
+sol2: 20
+C = 4454
+sol: 19
+sol2: 20
+C = 4732
+sol: 17
+sol2: 18
+C = 5048
+sol: 17
+sol2: 16
+C = 5408
+sol: 16
+sol2: 16
+C = 5824
+sol: 14
+sol2: 14
+C = 5853
+sol: 14
+sol2: 14
+C = 6309
+sol: 13
+sol2: 14
+C = 6842
+sol: 12
+sol2: 13
+C = 6883
+sol: 12
+sol2: 13
+C = 7571
+sol: 11
+sol2: 11
+C = 8412
+sol: 10
+sol2: 10
+C = 8898
+sol: 9
+sol2: 9
+C = 10816
+sol: 8
+sol2: 8
+
+Arc111
+C = 5755
+sol: 31
+sol2: 30
+C = 5785
+sol: 29
+sol2: 29
+C = 6016
+sol: 28
+sol2: 30
+C = 6267
+sol: 28
+sol2: 27
+C = 6540
+sol: 25
+sol2: 26
+C = 6837
+sol: 24
+sol2: 25
+C = 7162
+sol: 24
+sol2: 24
+C = 7520
+sol: 23
+sol2: 24
+C = 7916
+sol: 22
+sol2: 22
+C = 8356
+sol: 21
+sol2: 19
+C = 8847
+sol: 19
+sol2: 19
+C = 9400
+sol: 19
+sol2: 17
+C = 10027
+sol: 16
+sol2: 16
+C = 10743
+sol: 15
+sol2: 15
+C = 11378
+sol: 14
+sol2: 14
+C = 11570
+sol: 14
+sol2: 15
+C = 17067
+sol: 10
+sol2: 10
+
+Barthold
+C = 403
+sol: 15
+sol2: 15
+C = 434
+sol: 14
+sol2: 14
+C = 470
+sol: 13
+sol2: 13
+C = 513
+sol: 12
+sol2: 12
+C = 564
+sol: 11
+sol2: 11
+C = 626
+sol: 10
+sol2: 10
+C = 705
+sol: 9
+sol2: 9
+C = 805
+sol: 8
+sol2: 8
+
+Barthol2
+C = 84
+sol: 54
+sol2: 57
+C = 85
+sol: 54
+sol2: 55
+C = 87
+sol: 52
+sol2: 55
+C = 89
+sol: 51
+sol2: 52
+C = 91
+sol: 50
+sol2: 51
+C = 93
+sol: 50
+sol2: 50
+C = 95
+sol: 48
+sol2: 50
+C = 97
+sol: 47
+sol2: 48
+C = 99
+sol: 46
+sol2: 47
+C = 101
+sol: 45
+sol2: 46
+C = 104
+sol: 43
+sol2: 45
+C = 106
+sol: 44
+sol2: 44
+C = 109
+sol: 41
+sol2: 42
+C = 112
+sol: 40
+sol2: 41
+C = 115
+sol: 39
+sol2: 41
+C = 118
+sol: 38
+sol2: 39
+C = 121
+sol: 37
+sol2: 39
+C = 125
+sol: 36
+sol2: 36
+C = 129
+sol: 35
+sol2: 35
+C = 133
+sol: 33
+sol2: 34
+C = 137
+sol: 32
+sol2: 34
+C = 142
+sol: 31
+sol2: 32
+C = 146
+sol: 31
+sol2: 32
+C = 152
+sol: 29
+sol2: 30
+C = 157
+sol: 28
+sol2: 29
+C = 163
+sol: 27
+sol2: 28
+
+
