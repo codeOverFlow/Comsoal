@@ -148,10 +148,13 @@ int comsoal(data d)
 		nb_bin++;
 
 	capa_bin = d.C;
-	while (!tous_affect)
+	while (!tous_affect) //Tant qu'il reste des objets à affecter
 	{
+	    // on initialise la taille de la liste CL a 0
 		taille_cl = 0;
-		int* liste_cl = (int*) calloc((d.n+1), sizeof(int));
+		
+		int* liste_cl = (int*) calloc((d.n+1), sizeof(int)); //Création d'une nouvelle liste de taille n (nombre d'objets)
+		// on regarde pour chaque objet s'il peut etre candidat a l'affectation
 		for (int i = 1; i <= d.n; i++)
 		{
 			if (!affecter[i])
@@ -160,8 +163,9 @@ int comsoal(data d)
 				{
 					if (d.size[i] <= capa_bin)
 					{
+					    // si l'objet correspond au critère d'affectation on l'ajoute a la liste des candidats
 						taille_cl++;
-						liste_cl[taille_cl] = i;
+						liste_cl[taille_cl] = i; 
 					}
 				}
 				else
@@ -180,7 +184,7 @@ int comsoal(data d)
 
 						if (tous_fais)
 						{
-
+                            // si l'objet correspond au critère d'affectation on l'ajoute a la liste des candidats
 							taille_cl++;
 							liste_cl[taille_cl] = i;
 						}
@@ -188,27 +192,31 @@ int comsoal(data d)
 				}
 			}
 		}
-
+		
+		// si la liste CL n'a pas de candidat
 		if (!taille_cl)
 		{
-			tous_affect = 1;
-			for (int i = 1; i <= d.n; i++)
-			{
-				if (!affecter[i])
-				{
-					tous_affect = 0;
-					break;
-				}
-			}
-			if (tous_affect)
-				free(liste_cl);
-			else {
-				nb_bin++;
-				capa_bin = d.C;
+		    // on regarde si tous les objets ont ete affectés
+		    tous_affect = 1;
+    		for (int i = 1; i <= d.n; i++)
+    		{
+    			if (!affecter[i])
+    			{
+    				tous_affect = 0;
+    				break;
+    			}
+    		}
+    		// si oui on libere la memoire de la liste CL
+    		if (tous_affect)
+    			free(liste_cl);
+    		else { // sinon on cree un nouveau bin
+			    nb_bin++;
+			    capa_bin = d.C;
 			}
 		}
 		else
 		{
+		    //On prend un objet aléatoire parmi les candidats pour mettre dans le bin en cours
 			int alea;
 			if (taille_cl == 1)
 				alea = 1;
@@ -218,8 +226,10 @@ int comsoal(data d)
 			}
 			affecter[liste_cl[alea]] = 1;
 			capa_bin -= d.size[liste_cl[alea]];
-		}
+		} 
 	}
+
+    // une fois que tout est affecté on retourne le nombre de bin utilisés
 	return nb_bin;
 }
 
